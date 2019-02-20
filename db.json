@@ -1,14 +1,3 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"Response" :[{"Headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","Data":"1234,000010273727,,ACREP023,,,,,,,,,","DocType":"AFP","MimeType":"application/afp","DocId":"v7126-6433-6434-8609-USA1-8FAAA-733194-2089-0-204972-85-79-2-19-0-^\u0001000010273727\u00011234\u0001NULL","headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","data":"1234,000010273727,,ACREP023,,,,,,,,,","docType":"AFP","mimeType":"application/afp","docId":"v7126-6433-6434-8609-USA1-8FAAA-733194-2089-0-204972-85-79-2-19-0-^\u0001000010273727\u00011234\u0001NULL"},
+{"Headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","Data":"1234,,,MGLDREPCR,,,,,,,,,","DocType":"AFP","MimeType":"application/afp","DocId":"v7126-6436-6438-8609-VSA1-1FAAA-1576836-2645-1136344-227830-85-79-2-0-0-^\u0001MG1028818575\u00011234\u0001NULL\u0001MGREP001","headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","data":"1234,,,MGLDREPCR,,,,,,,,,","docType":"AFP","mimeType":"application/afp","docId":"v7126-6436-6438-8609-VSA1-1FAAA-1576836-2645-1136344-227830-85-79-2-0-0-^\u0001MG1028818575\u00011234\u0001NULL\u0001MGREP001"},
+{"Headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","Data":"1234,,,MGLDREPCR,,,,,,,,,","DocType":"AFP","MimeType":"application/afp","DocId":"v7126-6436-6437-8609-VSA1-2FAAA-2338456-2260-3807951-208835-85-79-2-0-0-^\u0001LD1104500110\u00011234\u0001NULL\u0001LDREP002","headers":"CIR,Account Number,Shadow Account Number,Application,Document Sub Type,Document Type,Extension,Doc Reference,User,Transaction Date,Date,BPM Filename,BU","data":"1234,,,MGLDREPCR,,,,,,,,,","docType":"AFP","mimeType":"application/afp","docId":"v7126-6436-6437-8609-VSA1-2FAAA-2338456-2260-3807951-208835-85-79-2-0-0-^\u0001LD1104500110\u00011234\u0001NULL\u0001LDREP002"}]}
